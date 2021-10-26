@@ -1,0 +1,1 @@
+A project to showcase my culinary taste as well as my rudimentary HTML skills. Check back often as I will be adding some of my favorite recipes to this repo.
